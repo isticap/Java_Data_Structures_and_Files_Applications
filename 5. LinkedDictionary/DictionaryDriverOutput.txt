@@ -1,0 +1,20 @@
+Creating dictionaryPutting values
+Checking size (should be 4): 4
+Get (should be 1): 1
+Get (should be 5): 5
+Get (should be 10): 10
+Get (should be null): null
+Remove (should be 5): 5
+Get removed (should be null): null
+Get size (should be 3): 3
+Reinsert
+Get (should be 5): 5
+Change using put
+Get (should be -10): -10
+Size (should be 4): 4
+Check key/value pairs using iterators...
+Apple, 1
+Banana, -10
+Grapes, 10
+Orange, 3
+Checking both key and vaule iterators are spent : true
